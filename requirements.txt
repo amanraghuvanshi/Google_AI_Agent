@@ -1,0 +1,8 @@
+flask 
+fastapi 
+firebase-admin 
+google-cloud-vertex-ai 
+google-cloud-storage 
+google-auth 
+python-dotenv
+google-genai
